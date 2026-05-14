@@ -1,50 +1,31 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gtrivedi88&label=visitors&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gtrivedi88?label=followers&style=social" alt="followers" />
+</p>
+
 # 👋 Hi, I'm Gaurav
+I'm a Principal Technical Writer at Red Hat. I maintain open-source documentation at enterprise scale. OpenShift Dev Spaces, OpenShift Docs, the kind of docs that ship with products millions of people depend on.
 
-**Principal Technical Writer @ Red Hat | AI/ML Tooling Builder | Future AI Solutions Architect**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravtrivedi88/)
-[![X/Twitter](https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/beingtechwriter)
-[![Blog](https://img.shields.io/badge/-Blog-E03C31?&style=for-the-badge&logo=ghost&logoColor=white)](https://beingtechnicalwriter.com)
+And I've spent the last year trying to automate myself out of that job.
+Not because I hate it. Because I wanted to know: *what happens when you actually succeed?*
 
 ---
 
-*I'm automating my current role out of existence so I can build the architecture next. Studying to be the architect who deploys it.*
+### Here's what I built.
 
-This profile documents my ongoing transition: **mastering a craft, automating it, and moving one layer higher.**
+Every repetitive thing I used to do by hand, I turned into tooling. Editorial review. Quality scoring. Content planning. Style compliance. All of it.
 
-### Mastering the Craft
-*The baseline: maintaining open-source documentation at scale and writing about the reality of doing it in the AI era.*
-
-| Initiative | Description | Link |
-|---------|-------------|------|
-| **Red Hat Documentation** | **Day job:** Principal Technical Writer maintaining open-source docs at enterprise scale. | [OpenShift](#)<br>[RHDH](https://github.com/openshift/openshift-docs)<br>[Che](https://github.com/eclipse-che/che-docs)<br>[TSF CLI](https://github.com/redhat-appstudio/tsf-cli) |
-| **BeingTechnicalWriter** | **Outside work:** A blog about what is actually happening to technical writing right now. | [beingtechnicalwriter.com](https://beingtechnicalwriter.com) |
-
-### Automating the Workflows
-*Production-grade tooling designed to eliminate repetitive manual work. Zero prototypes. Built from repeated operational pain.*
-
-| Tool | Description |
+| Repo | What it does |
 |------|-------------|
-| **[content-editorial-assistant](https://github.com/gtrivedi88/content-editorial-assistant)** | AI-assisted editorial system for technical content. Architecture diagrams, REST + WebSocket APIs. <br>`Python` `Antora` |
-| **[cqa-assessment](https://github.com/gtrivedi88/cqa-assessment)** | Framework that evaluates and scores Red Hat modular documentation against all 54 CQA 2.1 parameters. <br>`Python` `Vale` `DITA` |
-| **[redhat-docs-agent-tools](https://github.com/gtrivedi88/redhat-docs-agent-tools)** | Plugin marketplace of Claude Code skills and agent tools for Red Hat documentation workflows. <br>`Claude SDK` |
-| **[productivity](https://github.com/gtrivedi88/productivity)** | Productivity tracker with cognitive-load classification on tasks and streak gamification. <br>`Flask` `React` `SQLite` |
-| **[unlockpdf](https://github.com/gtrivedi88/unlockpdf)** | Utility for recovering access to password-protected PDFs in documentation workflows. <br>`Python` `Flask` |
+| [redhat-docs-agent-tools](https://github.com/gtrivedi88/redhat-docs-agent-tools) | Claude Code skills and agents that orchestrate the entire Red Hat doc workflow. Requirements to review, end to end. |
+| [cqa-assessment](https://github.com/gtrivedi88/cqa-assessment) | Scores docs against all 54 CQA 2.1 quality parameters. Vale + DITA compliance, automated reporting. |
+| [content-editorial-assistant](https://github.com/gtrivedi88/content-editorial-assistant) | AI editorial system with REST + WebSocket APIs and architecture diagrams. |
+| [productivity](https://github.com/gtrivedi88/productivity) | Productivity tracker with cognitive load classification and streak gamification. |
 
-### Moving One Layer Higher
-*The pivot from Technical Writer to AI Solutions Architect — designing the systems that connect models, data pipelines, and human endpoints.*
-
-| Phase | Description |
-|-------|-------------|
-| **[The Syllabus](https://github.com/gtrivedi88/ai-solution-architect)** | A 365-day gamified curriculum across four seasons to pivot into AI Solutions Architecture. |
-| **[The Logs](https://github.com/gtrivedi88/ai-solutions-architect)** | The day-by-day record of actually doing it. Wins, dead-ends, and un-edited tape. |
-| **[In The Lab](https://github.com/gtrivedi88)** | Experimental Custom Hugging Face models, RAG pipelines, and Claude Code migration agents. |
-
----
-
-### Active Infrastructure
+These aren't prototypes. They run against real documentation pipelines, on real content, every day.
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white)
+![Claude SDK](https://img.shields.io/badge/-Claude_SDK-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
@@ -54,12 +35,53 @@ This profile documents my ongoing transition: **mastering a craft, automating it
 
 ---
 
-### System Telemetry
+### So what happens when you automate your own role?
+
+You start seeing the layer above it. The architecture. The systems design. The part where someone decides *how* the models, the data pipelines, and the human endpoints connect.
+
+That's the job I'm building toward now. And I'm documenting the entire pivot in public, because no one else is:
+
+| Repo | What it is |
+|------|-----------|
+| [The Syllabus](https://github.com/gtrivedi88/ai-solution-architect) | A 365 day gamified curriculum to go from Technical Writer to AI Solutions Architect. Four seasons. One year. No shortcuts. |
+| [The Logs](https://github.com/gtrivedi88/ai-solutions-architect) | The day by day record of actually doing it. Wins, dead ends, and unedited tape. |
+
+---
+
+### The foundation.
+
+The day job isn't something I'm leaving behind. It's the reason any of this works. You can't automate what you haven't mastered.
+
+- [OpenShift Dev Spaces](https://github.com/eclipse-che/che-docs)
+- [TSF CLI](https://github.com/redhat-appstudio/tsf-cli)
+- [OpenShift Docs](https://github.com/openshift/openshift-docs)
+
+I write about what this transition actually looks like at **[beingtechnicalwriter.com](https://beingtechnicalwriter.com)**. Not theory. Not predictions. What's happening right now, from inside the machine.
+
+---
+
+### The proof is in the commits.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrivedi88&bg_color=ffffff&hide_border=true&color=000000&line=000000&point=000000" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtrivedi88&theme=default&hide_border=true" alt="streak stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gtrivedi88&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="github stats" width="48%" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrivedi88&bg_color=ffffff&hide_border=true&color=000000&line=0072b1&point=E03C31" alt="activity graph" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauravtrivedi88/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/beingtechwriter"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://beingtechnicalwriter.com"><img src="https://img.shields.io/badge/-Blog-E03C31?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" /></a>
+</p>
+
+<p align="center"><sub>Last updated by someone who still has the job. For now.</sub></p>
+
 
 <p align="center"><sub>This page is a living document. If you came back and something changed, that's the point.</sub></p>
