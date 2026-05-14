@@ -1,15 +1,12 @@
-# Gaurav Trivedi
+# 👋 Hi, I'm Gaurav Trivedi
 
-**Principal Technical Writer @ Red Hat | AI/ML Tooling Builder | Future Solutions Architect**
+**Principal Technical Writer @ Red Hat | AI/ML Tooling Builder | Future AI Solutions Architect**
+
+*Automating my current role out of existence so I can build the architecture next. Studying to be the architect who deploys it.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravtrivedi88/)
 [![X/Twitter](https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/beingtechwriter)
 [![Blog](https://img.shields.io/badge/-Blog-E03C31?&style=for-the-badge&logo=ghost&logoColor=white)](https://beingtechnicalwriter.com)
-
-<br>
-
-> *Automating my current role out of existence so I can build the architecture next.* <br>
-> *Studying to be the architect who deploys it.*
 
 ---
 
@@ -17,15 +14,15 @@
   <i>This profile documents one ongoing transition: <b>mastering a craft, automating it, and moving one layer higher.</b></i>
 </p>
 
-### Mastering the Craft
+### 1. Mastering the Craft
 *The baseline: maintaining open-source documentation at scale and writing about the reality of doing it in the AI era.*
 
 | Initiative | Description | Link |
 |---------|-------------|------|
-| **Red Hat Documentation** | **Day job:** Principal Technical Writer maintaining open-source docs at enterprise scale. | [OpenShift](#)<br>[RHDH](#)<br>[Che](#)<br>[TSF CLI](#) |
+| **Red Hat Documentation** | **Day job:** Principal Technical Writer maintaining open-source docs at enterprise scale. | [OpenShift](#)<br>[RHDH](https://github.com/openshift/openshift-docs)<br>[Che](https://github.com/eclipse-che/che-docs)<br>[TSF CLI](https://github.com/redhat-appstudio/tsf-cli) |
 | **BeingTechnicalWriter** | **Outside work:** A blog about what is actually happening to technical writing right now. | [beingtechnicalwriter.com](https://beingtechnicalwriter.com) |
 
-### Automating the Workflows
+### 2. Automating the Workflows
 *Production-grade tooling designed to eliminate repetitive manual work. Zero prototypes. Built from repeated operational pain.*
 
 | Repo | Description | Stack |
@@ -36,7 +33,7 @@
 | [productivity](https://github.com/gtrivedi88/productivity) | Productivity tracker with cognitive-load classification on tasks and streak gamification. | Flask, React, SQLite |
 | [unlockpdf](https://github.com/gtrivedi88/unlockpdf) | Utility for recovering access to password-protected PDFs in documentation workflows. | Python, Flask |
 
-### Moving One Layer Higher
+### 3. Moving One Layer Higher
 *The pivot from Technical Writer to AI Solutions Architect — designing the systems that connect models, data pipelines, and human endpoints.*
 
 | Phase | Description | Link |
