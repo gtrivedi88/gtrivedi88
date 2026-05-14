@@ -12,15 +12,15 @@
 
 This profile documents my ongoing transition: **mastering a craft, automating it, and moving one layer higher.**
 
-### 1. Mastering the Craft
+### Mastering the Craft
 *The baseline: maintaining open-source documentation at scale and writing about the reality of doing it in the AI era.*
 
-| Initiative | Description |
-|------------|-------------|
-| **Red Hat Documentation** | **Day job:** Principal Technical Writer maintaining open-source docs at enterprise scale. <br> **Docs:** [OpenShift](#) • [RHDH](https://github.com/openshift/openshift-docs) • [Che](https://github.com/eclipse-che/che-docs) • [TSF CLI](https://github.com/redhat-appstudio/tsf-cli) |
-| **[BeingTechnicalWriter](https://beingtechnicalwriter.com)** | **Outside work:** A blog about what is actually happening to technical writing right now. |
+| Initiative | Description | Link |
+|---------|-------------|------|
+| **Red Hat Documentation** | **Day job:** Principal Technical Writer maintaining open-source docs at enterprise scale. | [OpenShift](#)<br>[RHDH](https://github.com/openshift/openshift-docs)<br>[Che](https://github.com/eclipse-che/che-docs)<br>[TSF CLI](https://github.com/redhat-appstudio/tsf-cli) |
+| **BeingTechnicalWriter** | **Outside work:** A blog about what is actually happening to technical writing right now. | [beingtechnicalwriter.com](https://beingtechnicalwriter.com) |
 
-### 2. Automating the Workflows
+### Automating the Workflows
 *Production-grade tooling designed to eliminate repetitive manual work. Zero prototypes. Built from repeated operational pain.*
 
 | Tool | Description |
@@ -31,7 +31,7 @@ This profile documents my ongoing transition: **mastering a craft, automating it
 | **[productivity](https://github.com/gtrivedi88/productivity)** | Productivity tracker with cognitive-load classification on tasks and streak gamification. <br>`Flask` `React` `SQLite` |
 | **[unlockpdf](https://github.com/gtrivedi88/unlockpdf)** | Utility for recovering access to password-protected PDFs in documentation workflows. <br>`Python` `Flask` |
 
-### 3. Moving One Layer Higher
+### Moving One Layer Higher
 *The pivot from Technical Writer to AI Solutions Architect — designing the systems that connect models, data pipelines, and human endpoints.*
 
 | Phase | Description |
