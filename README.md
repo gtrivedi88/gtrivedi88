@@ -64,7 +64,7 @@ I write about what this transition actually looks like at **[beingtechnicalwrite
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtrivedi88&theme=default&hide_border=true" alt="streak stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gtrivedi88&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats-gtrivedi88.vercel.app/api?username=gtrivedi88&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="github stats" width="48%" />
 </div>
 
 <br>
