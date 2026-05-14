@@ -4,10 +4,16 @@
 </p>
 
 # 👋 Hi, I'm Gaurav
+
 I'm a Principal Technical Writer at Red Hat. I maintain open-source documentation at enterprise scale. OpenShift Dev Spaces, OpenShift Docs, the kind of docs that ship with products millions of people depend on.
 
 And I've spent the last year trying to automate myself out of that job.
+
 Not because I hate it. Because I wanted to know: *what happens when you actually succeed?*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravtrivedi88/)
+[![X/Twitter](https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/beingtechwriter)
+[![Blog](https://img.shields.io/badge/-Blog-E03C31?&style=for-the-badge&logo=ghost&logoColor=white)](https://beingtechnicalwriter.com)
 
 ---
 
@@ -63,8 +69,7 @@ I write about what this transition actually looks like at **[beingtechnicalwrite
 ### The proof is in the commits.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtrivedi88&theme=default&hide_border=true" alt="streak stats" width="48%" />
-  <img src="https://github-readme-stats-gtrivedi88.vercel.app/api?username=gtrivedi88&show_icons=true&hide_border=true&count_private=true&hide_title=true" alt="github stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtrivedi88&theme=default&hide_border=true" alt="streak stats" />
 </div>
 
 <br>
@@ -75,13 +80,6 @@ I write about what this transition actually looks like at **[beingtechnicalwrite
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauravtrivedi88/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/beingtechwriter"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://beingtechnicalwriter.com"><img src="https://img.shields.io/badge/-Blog-E03C31?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" /></a>
-</p>
+<p><sub>Last updated by someone who still has the job. For now.</sub></p>
 
-<p align="center"><sub>Last updated by someone who still has the job. For now.</sub></p>
-
-
-<p align="center"><sub>This page is a living document. If you came back and something changed, that's the point.</sub></p>
+<p><sub>This page is a living document. If you came back and something changed, that's the point.</sub></p>
